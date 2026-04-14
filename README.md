@@ -1,5 +1,11 @@
 # OuterTune
 
+
+THIS IS NOT MY PROJECT!!! I HEAVILY RECCOMEND GOING TO THE OFFICIAL OUTERTUNE REPO AT https://www.github.com/OuterTune/OuterTune FOR THE ACTUAL ONE, EVEN THOUGH THIS ONE HERE IS NO DIFFERENT AS OF 4/14/26 !!! I AM WORKING ON ADDING NEW AND DIFFERENT FEATURES ONTO THE 0.10.2-b1 RELEASE. DO NOT SUE ME!!!!! I AM NOT IN ASSOCIATION WITH OuterTune AT ALL, I AM SIMPLY REIDERATING IT INTO WHAT I PERSONALLY PREFER!!
+
+
+
+
 <img src="./assets/outertune.webp" height="88" alt="OuterTune app icon">
 
 A Material 3 YouTube Music client & local music player for Android
